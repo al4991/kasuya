@@ -1,0 +1,5 @@
+export const SET_COFFEE = "SET_COFFEE";
+export const SET_COFFEE_FROM_BEANS = "SET_COFFEE_FROM_BEANS";
+export const UPDATE_POURS = "UPDATE_POURS";
+export const UPDATED_DIMMED = "UPDATE_DIMMED";
+export const TIMER_TOGGLED = "TIMER_TOGGLED";
